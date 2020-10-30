@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<h2>Journal articles </h2>
+<h2>Articles de journal</h2>
 
 <ol reversed='reversed'> 
   
@@ -30,7 +30,7 @@ author_profile: true
 
 </ol>
 
-<h2>Conference papers</h2>
+<h2>Articles de conférence</h2>
 
 <ol reversed='reversed'>
   <li> Rodrigo Henriquez, <b>Antoine Lesage-Landry</b>, Joshua A. Taylor, Daniel Olivares, and Matias Negrete-Pincetic. "Managing Load Contract Restrictions with Online Learning," <i>Signal and Information Processing (GlobalSIP), IEEE Global Conference on</i>, November 2017. (<a href="https://doi.org/10.1109/GlobalSIP.2017.8309118">doi</a>)</li>
@@ -45,7 +45,7 @@ author_profile: true
 
 </ol>
 
-<h2>Seminars and talks</h2>
+<h2>Séminaires et présentations</h2>
 
 <ul style="list-style-type:disc;">
 
