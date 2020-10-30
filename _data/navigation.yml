@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "Publications"
-    url: fr/publications/ 
+    url: /publications/ 
 
   - title: "Enseignement"
-    url: fr/teaching/    
+    url: /teaching/    
     
   - title: "CV"
-    url: fr/cv/
+    url: /cv/
     
   - title: "English"
     url: https://alesagelandry.github.io
