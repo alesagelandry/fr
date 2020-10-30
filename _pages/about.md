@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Antoine Lesage-Landry"
+title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
