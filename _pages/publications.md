@@ -49,6 +49,8 @@ author_profile: true
 
 <ul style="list-style-type:disc;">
 
+<li><i>Online Convex Optimization with Binary Constraints for Demand Response</i>. 2020 INFORMS Annual Meeting, online. November 2020. Invited. </li>
+
 <li><i>Predictive Online Convex Optimization for Demand Response</i>. 2019 INFORMS Annual Meeting, Seattle, WA. October 2019. Invited. </li>
 
 <li><i>A Second-order Cone Model of AC-DC Transmission Expansion Planning</i>. Canadian Operational Research Society 61<sup>st</sup> Annual Conference, Saskatoon, SK. May 2019. </li>
