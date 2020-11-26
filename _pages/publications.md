@@ -10,7 +10,7 @@ author_profile: true
   
   <li> <b>Antoine Lesage-Landry</b>, Joshua A. Taylor, and Duncan S. Callaway. "Online Convex Optimization with Binary Constraints," <i>IEEE Transactions on Automatic Control</i>. Under review, May 2020. (<a href="https://arxiv.org/abs/2005.02274">arXiv</a>)</li>
   
-  <li> <b>Antoine Lesage-Landry</b>, Joshua A. Taylor, and Iman Shames. "Second-order Online Nonconvex Optimization," to appear in <i>IEEE Transactions on Automatic Control</i>. November 2020. (<a href="https://arxiv.org/abs/2001.10114">arXiv</a>)</li>
+  <li> <b>Antoine Lesage-Landry</b>, Joshua A. Taylor, and Iman Shames. "Second-order Online Nonconvex Optimization," to appear in <i>IEEE Transactions on Automatic Control</i>. November 2020. (<a href="https://doi.org/10.1109/TAC.2020.3040372">doi</a>)</li>
   
   <li><b>Antoine Lesage-Landry</b>, Han Wang, Iman Shames, Pierluigi Mancarella, and Joshua A. Taylor. "Online Convex Optimization of Multi-energy Building-to-grid Ancillary Services," <i>IEEE Transactions on Control Systems Technology</i>, 28 (6): 2416 - 2431. November 2020. (<a href="https://doi.org/10.1109/TCST.2019.2944328">doi</a>)</li>
   
