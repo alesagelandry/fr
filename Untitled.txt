@@ -1,0 +1,1 @@
+./configure --build=x86_64-w64-mingw32 --prefix=$PWD/install64 --with-xerces=/mingw64/bin --with-matlab=C:/PROGRA~1/MATLAB/R2020a --enable-silent-rules 'CFLAGS=-O2 -w -DMATLAB_DEFAULT_RELEASE=R2017b' 'CXXFLAGS=-O2 -w -DMATLAB_DEFAULT_RELEASE=R2017b' 'LDFLAGS=-O2 -w'
