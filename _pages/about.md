@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "Biographie"
+title: "Antoine Lesage-Landry"
 excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+alesagelandry [ at ] berkeley.edu
+
 
 J'ai obtenu mon B.Ing. en génie physique de Polytechnique Montréal, QC, Canada en 2015 et mon Ph.D. en génie électrique de l'Université de Toronto, ON, Canada, en 2019. 
 
