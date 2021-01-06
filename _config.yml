@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Antoine Lesage-Landry"
 title_separator          : "-"
 name                     : &name "Antoine Lesage-Landry"
-description              : &description "Postdoctoral Scholar, UC Berkeley"
+description              : &description "Professeur adjoint, Polytechnique Montréal"
 url                      : https://alesagelandry.github.io/fr # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alesagelandry/alesagelandry.github.io/fr"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Antoine Lesage-Landry"
   avatar           : "all.png"
-  bio              : "Postdoctoral Scholar, UC Berkeley"
-  location         : "Berkeley, CA"
+  bio              : "Professeur adjoint, Polytechnique Montréal"
+  location         : "Montréal, Québec, Canada"
   employer         :
   googlescholar    : "https://scholar.google.ca/citations?user=E-fXND0AAAAJ&hl=en"
   email            :
