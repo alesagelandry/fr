@@ -8,10 +8,15 @@ redirect_from:
   - /about.html
 ---
 antoine.lesage-landry [ at ] polymtl.ca
+
 Bureau: A-343.14
+
 École Polytechnique de Montréal
+
 C.P. 6079, succursale Centre-ville
+
 Montréal, Québec, Canada
+
 H3C 3A7
 
 
