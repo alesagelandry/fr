@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 antoine.lesage-landry [ at ] polymtl.ca<br />
-Bureau: A-343.14<br />
-École Polytechnique de Montréal<br />
-C.P. 6079, succursale Centre-ville<br />
+Polytechnique Montréal<br />
+Pavillon Principal, A-343.14 <br />
+2500, chemin de Polytechnique<br />
 Montréal, Québec, Canada<br />
-H3C 3A7<br />
+H3T 1J4<br />
 
 
 Je suis professeur adjoint au département de génie électrique de Polytechnique Montréal, QC, Canada. J’ai obtenu mon B. Ing. en génie physique de Polytechnique Montréal en 2015 et mon Ph. D. en génie électrique de l’Université de Toronto, ON, Canada, en 2019. Avant de mon joindre à Polytechnique Montréal, j’ai été chercheur postdoctoral au Energy & Resources Group à l’Université de la Californie, Berkeley de 2019 à 2020. Mes champs d’intérêt en recherche incluent l’optimisation et l’apprentissage en temps réel ainsi que leurs applications à la gestion des réseaux électriques modernes.
