@@ -8,6 +8,8 @@ author_profile: true
 
 <ol reversed='reversed'> 
   
+  <li><b>Antoine Lesage-Landry</b> and Duncan S. Callaway. "Approximate Multi-Agent Fitted Q-Iteration," <i>IEEE Transactions on Control of Network Systems</i>. Under review, April 2021. (<a href="https://arxiv.org/abs/2104.09343">arXiv</a>)</li>  
+  
   <li> <b>Antoine Lesage-Landry</b>, Joshua A. Taylor, and Duncan S. Callaway. "Online Convex Optimization with Binary Constraints," to appear in <i>IEEE Transactions on Automatic Control</i>. February 2021. (<a href="https://doi.org/10.1109/TAC.2021.3061625">doi</a>)</li>
   
   <li> <b>Antoine Lesage-Landry</b>, Joshua A. Taylor, and Iman Shames. "Second-order Online Nonconvex Optimization," to appear in <i>IEEE Transactions on Automatic Control</i>. November 2020. (<a href="https://doi.org/10.1109/TAC.2020.3040372">doi</a>)</li>
