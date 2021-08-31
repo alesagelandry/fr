@@ -5,6 +5,9 @@ main:
 
   - title: "Enseignement"
     url: /teaching/    
+  
+  - title: "Groupe"
+    url: /group/        
     
   - title: "CV"
     url: /cv/
