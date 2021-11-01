@@ -35,6 +35,10 @@ author_profile: true
 <h2>Articles de conférence</h2>
 
 <ol reversed='reversed'>
+  
+    <li> <b>Antoine Lesage-Landry</b> and Duncan S. Callaway. "Batch Reinforcement Learning for Network-Safe Demand
+Response in Unknown Electric Grids," <i>22nd Power Systems Computation Conference (PSCC 2022)</i>, Under review, September 2021. (<a href="https://www.gerad.ca/en/papers/G-2021-55">preprint</a>)</li>
+  
   <li> Rodrigo Henriquez, <b>Antoine Lesage-Landry</b>, Joshua A. Taylor, Daniel Olivares, and Matias Negrete-Pincetic. "Managing Load Contract Restrictions with Online Learning," <i>IEEE Global Conference on Signal and Information Processing (GlobalSIP)</i>, November 2017. (<a href="https://doi.org/10.1109/GlobalSIP.2017.8309118">doi</a>)</li>
     
   <li> Amr Mohamed, <b>Antoine Lesage-Landry</b>, and Joshua A. Taylor. "Dispatching Thermostatically Controlled Loads for Frequency Regulation Using Adversarial Multi-armed Bandits," <i>2017 IEEE Electrical Power and Energy Conference (EPEC)</i>, October 2017. (<a href="https://doi.org/10.1109/EPEC.2017.8286168">doi</a>)</li>
@@ -50,6 +54,8 @@ author_profile: true
 <h2>Séminaires et présentations</h2>
 
 <ul style="list-style-type:disc;">
+  
+<li><i>Fitted Q-Iteration for Network-Safe Demand Response</i>. 2021 INFORMS Annual Meeting, Anaheim, CA/online. October 2021. Invited. </li>
   
 <li><i>Real-Time Decision-making for Demand Response Under Uncertainty</i>. GERAD Webinar. Montréal, QC, online, March 2021. </li> 
  
