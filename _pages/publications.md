@@ -37,7 +37,7 @@ author_profile: true
 <ol reversed='reversed'>
   
     <li> <b>Antoine Lesage-Landry</b> and Duncan S. Callaway. "Batch Reinforcement Learning for Network-Safe Demand
-Response in Unknown Electric Grids," <i>22nd Power Systems Computation Conference (PSCC 2022)</i>, Under review, September 2021. (<a href="https://www.gerad.ca/en/papers/G-2021-55">preprint</a>)</li>
+Response in Unknown Electric Grids," <i>22nd Power Systems Computation Conference (PSCC 2022)</i>, Under review, September 2021. (<a href="https://www.gerad.ca/en/publications/papers/G-2021-55">preprint</a>)</li>
   
   <li> Rodrigo Henriquez, <b>Antoine Lesage-Landry</b>, Joshua A. Taylor, Daniel Olivares, and Matias Negrete-Pincetic. "Managing Load Contract Restrictions with Online Learning," <i>IEEE Global Conference on Signal and Information Processing (GlobalSIP)</i>, November 2017. (<a href="https://doi.org/10.1109/GlobalSIP.2017.8309118">doi</a>)</li>
     
