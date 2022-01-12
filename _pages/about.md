@@ -19,4 +19,4 @@ Je suis professeur adjoint au département de génie électrique de Polytechniqu
 
 Je suis présentement à la recherche de nouveaux étudiants aux cycles supérieurs. J’invite les étudiant(e)s intéressé(e)s à entreprendre une maîtrise ou un doctorat sous ma supervision à me contacter. Veuillez s’il vous plaît inclure une brève biographie et joindre un CV ainsi que vos relevés de notes récents.
 
-<!--Je suis aussi spécifiquement à la recherche d'un étudiant au doctorat pour ce [projet de recherche](http://alesagelandry.github.io/phd_dr_optimization_description_eng.pdf) fait en collaboration avec le département de mathématiques et de génie industriel. Pour plus d'information sur le processus d'application, s'il vous plaît consulter la description de projet.-->
+Je suis aussi spécifiquement à la recherche d'un étudiant au doctorat pour ce [projet de recherche](http://alesagelandry.github.io/MANA_OPF_fr.pdf) fait en collaboration avec mon collègue Prof. Mahseredjian. Pour plus d'information sur le processus d'application, s'il vous plaît consulter la description de projet.
