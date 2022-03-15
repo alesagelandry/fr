@@ -59,13 +59,13 @@ Response in Unknown Electric Grids," <i>22nd Power Systems Computation Conferenc
 
 <ul style="list-style-type:disc;">
   
-<li><i>Batch Reinforcement Learning for Network-Safe Demand Response</i>. Power Systems Laboratory Seminar at ETH Zürich, Zürich, Switzerland/online. March 2022. </li>
+<li><i>Batch Reinforcement Learning for Network-Safe Demand Response</i>. ETH Zürich: Power Systems Laboratory Seminar, Zürich, Switzerland/online. March 2022. </li>
   
-<li><i>Real-time Decision-making for Demand Response</i>. Energy Seminar: Joint Mechanical & Aerospace Engineering Dept and Center for Energy Research at the University of California, San Diego, San Diego CA/online. November 2021. </li>  
+<li><i>Real-time Decision-making for Demand Response</i>. University of California, San Diego: Joint Mechanical & Aerospace Engineering Dept and Center for Energy Research at the University of California, San Diego Energy Seminar, San Diego CA/online. November 2021. </li>  
   
 <li><i>Fitted Q-Iteration for Network-Safe Demand Response</i>. 2021 INFORMS Annual Meeting, Anaheim, CA/online. October 2021. Invited. </li>
 
-<li><i>Real-Time Decision-making for Demand Response Under Uncertainty</i>. GERAD Webinar. Montréal, QC, online, March 2021. </li>   
+<li><i>Real-Time Decision-making for Demand Response Under Uncertainty</i>. GERAD Webinar. Montréal, QC, online. March 2021. </li>   
 
 <li><i>Dynamic and Distributed Online Convex Optimization for Demand Response of Commercial Buildings</i>. 59<sup>th</sup> IEEE Conference on Decision and Control (CDC), online. December 2020. </li>
 
@@ -79,8 +79,8 @@ Response in Unknown Electric Grids," <i>22nd Power Systems Computation Conferenc
 
 <li><i>Renewable Integration and Demand Response</i>. ECE1476 - LEDs and Solar Cells, University of Toronto, Toronto, ON. November 2018. </li>
 
-<li><i>Online Learning for Demand Response</i>. The University of Melbourne, Australia, February 2018.</li>
+<li><i>Online Learning for Demand Response</i>. The University of Melbourne: Electrical and Electronic Engineering Seminar, Melbourne, VIC, Australia. February 2018.</li>
 
-<li><i>Estimation du mouvement de tumeur pulmonaire: un modèle basé sur des images diagnostiques 3D</i>. Student Conference of the Clinical Medical Physicists Association of Québec. Québec City, QC, November 2014. </li>
+<li><i>Estimation du mouvement de tumeur pulmonaire: un modèle basé sur des images diagnostiques 3D</i>. Student Conference of the Clinical Medical Physicists Association of Québec. Québec City, QC. November 2014. </li>
 
 </ul>  
