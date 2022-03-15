@@ -8,11 +8,13 @@ author_profile: true
 
 <ol reversed='reversed'> 
   
-  <li><b>Antoine Lesage-Landry</b> and Duncan S. Callaway. "Approximate Multi-Agent Fitted Q-Iteration," <i>Systems & Control Letters</i>. Under review, July 2021. (<a href="https://arxiv.org/abs/2104.09343">arXiv</a>)</li>  
+ <li><b>Antoine Lesage-Landry</b>, Félix Pellerin, Joshua A. Taylor, and Duncan S. Callaway. "Optimally Scheduling Public Safety Power Shutoffs," <i>INFORMS Stochastic Systems</i>. Under review, March 2022. (<a href="https://arxiv.org/abs/2203.02861">arXiv</a>)</li>
   
-  <li> <b>Antoine Lesage-Landry</b>, Joshua A. Taylor, and Duncan S. Callaway. "Online Convex Optimization with Binary Constraints," to appear in <i>IEEE Transactions on Automatic Control</i>. February 2021. (<a href="https://doi.org/10.1109/TAC.2021.3061625">doi</a>)</li>
+  <li><b>Antoine Lesage-Landry</b> and Duncan S. Callaway. "Approximate Multi-Agent Fitted Q-Iteration," <i>Systems & Control Letters</i>. Under review, July 2021. (<a href="https://arxiv.org/abs/2104.09343">arXiv</a>)</li>
   
-  <li> <b>Antoine Lesage-Landry</b>, Joshua A. Taylor, and Iman Shames. "Second-order Online Nonconvex Optimization," to appear in <i>IEEE Transactions on Automatic Control</i>. November 2020. (<a href="https://doi.org/10.1109/TAC.2020.3040372">doi</a>)</li>
+  <li> <b>Antoine Lesage-Landry</b>, Joshua A. Taylor, and Duncan S. Callaway. "Online Convex Optimization with Binary Constraints," <i>IEEE Transactions on Automatic Control</i>, 66 (12): 6164-6170. December 2021. (<a href="https://doi.org/10.1109/TAC.2021.3061625">doi</a>)</li>
+  
+  <li> <b>Antoine Lesage-Landry</b>, Joshua A. Taylor, and Iman Shames. "Second-order Online Nonconvex Optimization," <i>IEEE Transactions on Automatic Control</i>, 66 (10): 4866-4872.  October 2021. (<a href="https://doi.org/10.1109/TAC.2020.3040372">doi</a>)</li>
   
   <li><b>Antoine Lesage-Landry</b>, Han Wang, Iman Shames, Pierluigi Mancarella, and Joshua A. Taylor. "Online Convex Optimization of Multi-energy Building-to-grid Ancillary Services," <i>IEEE Transactions on Control Systems Technology</i>, 28 (6): 2416 - 2431. November 2020. (<a href="https://doi.org/10.1109/TCST.2019.2944328">doi</a>)</li>
   
@@ -37,9 +39,11 @@ author_profile: true
 <ol reversed='reversed'>
   
     <li> <b>Antoine Lesage-Landry</b> and Duncan S. Callaway. "Batch Reinforcement Learning for Network-Safe Demand
-Response in Unknown Electric Grids," <i>22nd Power Systems Computation Conference (PSCC 2022)</i>, Under review, September 2021. (<a href="https://www.gerad.ca/fr/papers/G-2021-55">preprint</a>)</li>
+Response in Unknown Electric Grids," <i>22nd Power Systems Computation Conference (PSCC 2022)</i>, accepted, February 2022. (<a href="https://www.gerad.ca/en/papers/G-2021-55">preprint</a>)</li>
   
-  <li> Rodrigo Henriquez, <b>Antoine Lesage-Landry</b>, Joshua A. Taylor, Daniel Olivares, and Matias Negrete-Pincetic. "Managing Load Contract Restrictions with Online Learning," <i>IEEE Global Conference on Signal and Information Processing (GlobalSIP)</i>, November 2017. (<a href="https://doi.org/10.1109/GlobalSIP.2017.8309118">doi</a>)</li>
+  <li> Vincent Mai, Tianyu Zhang, and <b>Antoine Lesage-Landry</b>. "Multi-agent Reinforcement Learning for Renewable Integration in the Electric Power Grid," <i>Tackling Climate Change with Machine Learning: workshop at NeurIPS 2021</i>, online, December 2021. (<a href="https://www.climatechange.ai/papers/neurips2021/71/paper.pdf">pdf</a>)</li>
+  
+  <li> Rodrigo Henriquez, <b>Antoine Lesage-Landry</b>, Joshua A. Taylor, Daniel Olivares, and Matias Negrete-Pincetic. "Managing Load Contract Restrictions with Online Learning," <i>, IEEE Global Conference on Signal and Information Processing (GlobalSIP)</i>, November 2017. (<a href="https://doi.org/10.1109/GlobalSIP.2017.8309118">doi</a>)</li>
     
   <li> Amr Mohamed, <b>Antoine Lesage-Landry</b>, and Joshua A. Taylor. "Dispatching Thermostatically Controlled Loads for Frequency Regulation Using Adversarial Multi-armed Bandits," <i>2017 IEEE Electrical Power and Energy Conference (EPEC)</i>, October 2017. (<a href="https://doi.org/10.1109/EPEC.2017.8286168">doi</a>)</li>
   
@@ -55,10 +59,14 @@ Response in Unknown Electric Grids," <i>22nd Power Systems Computation Conferenc
 
 <ul style="list-style-type:disc;">
   
-<li><i>Fitted Q-Iteration for Network-Safe Demand Response</i>. 2021 INFORMS Annual Meeting, Anaheim, CA/online. October 2021. Invited. </li>
+<li><i>Batch Reinforcement Learning for Network-Safe Demand Response</i>. Power Systems Laboratory Seminar at ETH Zürich, Zürich, Switzerland/online. March 2022. </li>
   
-<li><i>Real-Time Decision-making for Demand Response Under Uncertainty</i>. GERAD Webinar. Montréal, QC, online, March 2021. </li> 
- 
+<li><i>Real-time Decision-making for Demand Response</i>. Energy Seminar: Joint Mechanical & Aerospace Engineering Dept and Center for Energy Research at the University of California, San Diego, San Diego CA/online. November 2021. Invited. </li>  
+  
+<li><i>Fitted Q-Iteration for Network-Safe Demand Response</i>. 2021 INFORMS Annual Meeting, Anaheim, CA/online. October 2021. Invited. </li>
+
+<li><i>Real-Time Decision-making for Demand Response Under Uncertainty</i>. GERAD Webinar. Montréal, QC, online, March 2021. </li>   
+
 <li><i>Dynamic and Distributed Online Convex Optimization for Demand Response of Commercial Buildings</i>. 59<sup>th</sup> IEEE Conference on Decision and Control (CDC), online. December 2020. </li>
 
 <li><i>Online Convex Optimization with Binary Constraints for Demand Response</i>. 2020 INFORMS Annual Meeting, online. November 2020. Invited. </li>
