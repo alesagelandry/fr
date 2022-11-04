@@ -66,6 +66,12 @@ Response in Unknown Electric Grids," <i>Electric Power Systems Research</i>, 202
 <h2>Séminaires et présentations</h2>
 
 <ul style="list-style-type:disc;">
+
+<li><i>Optimally Scheduling Public Safety Power Shutoffs</i>. Northwestern University: Department of Electrical and Computer Engineering Seminar Series, Evanston, IL. October 2022. </li>   
+
+<li><i>Optimally Scheduling Public Safety Power Shutoffs</i>. University of British Columbia: ECE Seminar, Vancouver, BC. June 2022. </li> 
+  
+<li><i>Optimally Scheduling Public Safety Power Shutoffs</i>. Northeastern University: MIE Seminar Series, Boston, MA. May 2022. </li>  
   
 <li><i>Batch Reinforcement Learning for Network-Safe Demand Response</i>. ETH Zürich: Power Systems Laboratory Seminar, Zürich, Switzerland/online. March 2022. </li>
   
