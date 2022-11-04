@@ -7,12 +7,16 @@ author_profile: true
 <h2>Articles de journal</h2>
 
 <ol reversed='reversed'> 
+  <li>Feng Li, Ilhan Kocar, and <b>Antoine Lesage-Landry</b>. "Rapid Method for Impact Analysis of Grid-edge Technologies on Power Distribution Networks," <i>INFORMS Stochastic Systems</i>. Under review, March 2022. (<a href="https://www.gerad.ca/en/papers/G-2022-45">preprint</a>)</li>
   
- <li><b>Antoine Lesage-Landry</b>, Félix Pellerin, Joshua A. Taylor, and Duncan S. Callaway. "Optimally Scheduling Public Safety Power Shutoffs," <i>INFORMS Stochastic Systems</i>. Under review, March 2022. (<a href="https://arxiv.org/abs/2203.02861">arXiv</a>)</li>
+ <li><b>Antoine Lesage-Landry</b>, Félix Pellerin, Joshua A. Taylor, and Duncan S. Callaway. "Optimally Scheduling Public Safety Power Shutoffs," <i>IEEE Transactions on Power Systems</i>. Under review, August 2022. (<a href="https://arxiv.org/abs/2203.02861">arXiv</a>)</li>
   
   <li><b>Antoine Lesage-Landry</b> and Duncan S. Callaway. "Approximate Multi-Agent Fitted Q-Iteration," <i>Systems & Control Letters</i>. Under review, July 2021. (<a href="https://arxiv.org/abs/2104.09343">arXiv</a>)</li>
   
   <li> <b>Antoine Lesage-Landry</b>, Joshua A. Taylor, and Duncan S. Callaway. "Online Convex Optimization with Binary Constraints," <i>IEEE Transactions on Automatic Control</i>, 66 (12): 6164-6170. December 2021. (<a href="https://doi.org/10.1109/TAC.2021.3061625">doi</a>)</li>
+  
+  <li> <b>Antoine Lesage-Landry</b> and Duncan S. Callaway. "Batch Reinforcement Learning for Network-Safe Demand
+Response in Unknown Electric Grids," <i>Electric Power Systems Research</i>, 202: 108375. November 2022. (<a href="https://pscc.epfl.ch/rms/modules/request.php?module=oc_program&action=summary.php&id=1324">preprint</a>)</li>
   
   <li> <b>Antoine Lesage-Landry</b>, Joshua A. Taylor, and Iman Shames. "Second-order Online Nonconvex Optimization," <i>IEEE Transactions on Automatic Control</i>, 66 (10): 4866-4872.  October 2021. (<a href="https://doi.org/10.1109/TAC.2020.3040372">doi</a>)</li>
   
@@ -39,7 +43,7 @@ author_profile: true
 <ol reversed='reversed'>
   
     <li> <b>Antoine Lesage-Landry</b> and Duncan S. Callaway. "Batch Reinforcement Learning for Network-Safe Demand
-Response in Unknown Electric Grids," <i>22nd Power Systems Computation Conference (PSCC 2022)</i>, accepted, February 2022. (<a href="https://www.gerad.ca/en/papers/G-2021-55">preprint</a>)</li>
+Response in Unknown Electric Grids," <i>22nd Power Systems Computation Conference (PSCC 2022)</i> February 2022. (<a href="https://pscc.epfl.ch/rms/modules/request.php?module=oc_program&action=summary.php&id=1324">preprint</a>)</li>
   
   <li> Vincent Mai, Tianyu Zhang, and <b>Antoine Lesage-Landry</b>. "Multi-agent Reinforcement Learning for Renewable Integration in the Electric Power Grid," <i>Tackling Climate Change with Machine Learning: workshop at NeurIPS 2021</i>, online, December 2021. (<a href="https://www.climatechange.ai/papers/neurips2021/71/paper.pdf">pdf</a>)</li>
   
