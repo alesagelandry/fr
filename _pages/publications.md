@@ -41,9 +41,14 @@ Response in Unknown Electric Grids," <i>Electric Power Systems Research</i>, 202
 <h2>Articles de conférence</h2>
 
 <ol reversed='reversed'>
+  <li> Vincent Mai, Philippe Maisonneuve, Tianyu Zhang, Hadi Nekoei, Liam Paull, and <b>Antoine Lesage-Landry</b>. "Multi-agent Reinforcement Learning for Fast-Timescale Demand Response of Residential Loads," <i>22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS)</i>. Under review. May 2023. <!--(<a href="https://www.climatechange.ai/papers/neurips2021/71/paper.pdf">pdf</a>)--></li>
+  
+  <li> Vincent Mai, Philippe Maisonneuve, Tianyu Zhang, Jorge Montalvo, Liam Paull, and <b>Antoine Lesage-Landry</b>. "Multi-agent Reinforcement Learning for Fast-Timescale Demand Response," <i>Reinforcement Learning for Real Life Workshop @ NeurIPS 2022</i>. Accepted. December 2022. <!--(<a href="https://www.climatechange.ai/papers/neurips2021/71/paper.pdf">pdf</a>)--></li>
+  
+  <li> Vincent Mai, Tianyu Zhang, and <b>Antoine Lesage-Landry</b>. "Multi-agent Reinforcement Learning for Renewable Integration in the Electric Power Grid," <i>Tackling Climate Change with Machine Learning: workshop at NeurIPS 2021</i>, online, December 2021. (<a href="https://www.climatechange.ai/papers/neurips2021/71/paper.pdf">pdf</a>)</li>
   
     <li> <b>Antoine Lesage-Landry</b> and Duncan S. Callaway. "Batch Reinforcement Learning for Network-Safe Demand
-Response in Unknown Electric Grids," <i>22nd Power Systems Computation Conference (PSCC 2022)</i> February 2022. (<a href="https://pscc.epfl.ch/rms/modules/request.php?module=oc_program&action=summary.php&id=1324">preprint</a>)</li>
+Response in Unknown Electric Grids," <i>22nd Power Systems Computation Conference (PSCC 2022)</i> February 2022. (<a href="https://pscc.epfl.ch/rms/modules/request.php?module=oc_program&action=summary.php&id=1324">pdf</a>)</li>
   
   <li> Vincent Mai, Tianyu Zhang, and <b>Antoine Lesage-Landry</b>. "Multi-agent Reinforcement Learning for Renewable Integration in the Electric Power Grid," <i>Tackling Climate Change with Machine Learning: workshop at NeurIPS 2021</i>, online, December 2021. (<a href="https://www.climatechange.ai/papers/neurips2021/71/paper.pdf">pdf</a>)</li>
   
