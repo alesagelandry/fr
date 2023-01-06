@@ -7,6 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Professeur adjoint, département de génie électrique, Polytechnique Montréal<br />
+Membre, Groupe d'études et de recherche en analyse des décisions (GERAD)<br />
+Membre académique associé, Mila - Institut québécois d'intelligence artificielle<br />
+<br />
+
+
 antoine.lesage-landry [ at ] polymtl.ca<br />
 Polytechnique Montréal<br />
 Pavillon Principal, A-429.5 <br />
