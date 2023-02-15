@@ -9,7 +9,7 @@ redirect_from:
 ---
 Professeur adjoint, [département de génie électrique](https://www.polymtl.ca/expertises/lesage-landry-antoine), [Polytechnique Montréal](https://polymtl.ca/)<br />
 Membre, [Groupe d'études et de recherche en analyse des décisions (GERAD)](https://www.gerad.ca/fr/people/antoine-lesage-landry)<br />
-Membre académique associé, [Mila - Institut québécois d'intelligence artificielle](https://mila.quebec/)<br />
+Membre académique associé, [Mila - Institut québécois d'intelligence artificielle](https://mila.quebec/](https://mila.quebec/personne/antoine-lesage-landry/)<br />
 <br />
 
 
