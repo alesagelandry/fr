@@ -7,16 +7,21 @@ author_profile: true
 <h2>Articles de journal</h2>
 
 <ol reversed='reversed'> 
-  <li>Feng Li, Ilhan Kocar, and <b>Antoine Lesage-Landry</b>. "Rapid Method for Impact Analysis of Grid-edge Technologies on Power Distribution Networks," <i>INFORMS Stochastic Systems</i>. Under review, March 2022. (<a href="https://www.gerad.ca/en/papers/G-2022-45">preprint</a>)</li>
+  <li> Vincent Mai, Philippe Maisonneuve, Tianyu Zhang, Hadi Nekoei, Liam Paull, and <b>Antoine Lesage-Landry</b>. "Multi-agent Reinforcement Learning for Fast-Timescale Demand Response of Residential Loads," <i>Machine Learning</i>. Under review. March 2023. (<a href="https://arxiv.org/abs/2301.02593">arXiv</a>)</li>   
+
+<li><b>Antoine Lesage-Landry</b>, Félix Pellerin, Joshua A. Taylor, and Duncan S. Callaway. "Optimally Scheduling Public Safety Power Shutoffs," <i>IEEE Transactions on Power Systems</i>. Under review, August 2022. (<a href="https://arxiv.org/abs/2203.02861">arXiv</a>)</li>
   
- <li><b>Antoine Lesage-Landry</b>, Félix Pellerin, Joshua A. Taylor, and Duncan S. Callaway. "Optimally Scheduling Public Safety Power Shutoffs," <i>IEEE Transactions on Power Systems</i>. Under review, August 2022. (<a href="https://arxiv.org/abs/2203.02861">arXiv</a>)</li>
+<li><b>Antoine Lesage-Landry</b> and Duncan S. Callaway. "Approximate Multi-Agent Fitted Q-Iteration," <i>Systems & Control Letters</i>. Under review, July 2021. (<a href="https://arxiv.org/abs/2104.09343">arXiv</a>)</li>
+
+<li>Feng Li, Ilhan Kocar, and <b>Antoine Lesage-Landry</b>. "A Rapid Method for Impact Analysis of Grid-edge Technologies on Power Distribution Networks," <i>IEEE Transactions on Power Systems</i>. March 2023. (<a href="https://doi.org/10.1109/TPWRS.2023.3262421">doi</a>)</li>
+
+<li>Jean-Luc Lupien and <b>Antoine Lesage-Landry</b>. "An Online Newton's Method with Linear Time-varying Equality
+Constraints," <i>IEEE Control Systems Letters</i>, 6: 1423-1428. Février 2023. (<a href="https://doi.org/10.1109/LCSYS.2023.3247359">doi</a>)</li> 
   
-  <li><b>Antoine Lesage-Landry</b> and Duncan S. Callaway. "Approximate Multi-Agent Fitted Q-Iteration," <i>Systems & Control Letters</i>. Under review, July 2021. (<a href="https://arxiv.org/abs/2104.09343">arXiv</a>)</li>
-  
-  <li> <b>Antoine Lesage-Landry</b>, Joshua A. Taylor, and Duncan S. Callaway. "Online Convex Optimization with Binary Constraints," <i>IEEE Transactions on Automatic Control</i>, 66 (12): 6164-6170. December 2021. (<a href="https://doi.org/10.1109/TAC.2021.3061625">doi</a>)</li>
+<li> <b>Antoine Lesage-Landry</b>, Joshua A. Taylor, and Duncan S. Callaway. "Online Convex Optimization with Binary Constraints," <i>IEEE Transactions on Automatic Control</i>, 66 (12): 6164-6170. December 2021. (<a href="https://doi.org/10.1109/TAC.2021.3061625">doi</a>)</li>
   
   <li> <b>Antoine Lesage-Landry</b> and Duncan S. Callaway. "Batch Reinforcement Learning for Network-Safe Demand
-Response in Unknown Electric Grids," <i>Electric Power Systems Research</i>, 202: 108375. November 2022. (<a href="https://pscc.epfl.ch/rms/modules/request.php?module=oc_program&action=summary.php&id=1324">preprint</a>)</li>
+Response in Unknown Electric Grids," <i>Electric Power Systems Research</i>, 202: 108375. November 2022. (<a href="https://doi.org/10.1016/j.epsr.2022.108375">doi</a>)</li>
   
   <li> <b>Antoine Lesage-Landry</b>, Joshua A. Taylor, and Iman Shames. "Second-order Online Nonconvex Optimization," <i>IEEE Transactions on Automatic Control</i>, 66 (10): 4866-4872.  October 2021. (<a href="https://doi.org/10.1109/TAC.2020.3040372">doi</a>)</li>
   
@@ -36,20 +41,21 @@ Response in Unknown Electric Grids," <i>Electric Power Systems Research</i>, 202
 
   <li><b>Antoine Lesage-Landry</b> and Joshua A. Taylor. "The Multi-armed Bandit with Stochastic Plays," <i>IEEE Transactions on Automatic Control</i>, 63 (7): 2280-2286. July 2018. (<a href="https://doi.org/10.1109/TAC.2017.2765501">doi</a>)</li>
 
+
 </ol>
 
 <h2>Articles de conférence</h2>
 
 <ol reversed='reversed'>
-  <li> Vincent Mai, Philippe Maisonneuve, Tianyu Zhang, Hadi Nekoei, Liam Paull, and <b>Antoine Lesage-Landry</b>. "Multi-agent Reinforcement Learning for Fast-Timescale Demand Response of Residential Loads," <i>22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS)</i>. Under review. May 2023. <!--(<a href="https://www.climatechange.ai/papers/neurips2021/71/paper.pdf">pdf</a>)--></li>
+  <li> Vincent Mai, Philippe Maisonneuve, Tianyu Zhang, Hadi Nekoei, Liam Paull, and <b>Antoine Lesage-Landry</b>. "Multi-agent Reinforcement Learning for Fast-Timescale Demand Response of Residential Loads," <i>22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS)</i>. Accepted. May 2023. <!--(<a href="https://www.climatechange.ai/papers/neurips2021/71/paper.pdf">pdf</a>)--></li>
+
+  <li>Feng Li, Ilhan Kocar, and <b>Antoine Lesage-Landry</b>. "Mitigating Equipment Overloads due to Electric Vehicle Charging Using Customer Incentives," <i>2023 IEEE Power & Energy Society General Meeting</i>. Accepted. March 2023. (<a href="https://doi.org/10.1109/TPWRS.2023.3262421">doi</a>)</li>
   
-  <li> Vincent Mai, Philippe Maisonneuve, Tianyu Zhang, Jorge Montalvo, Liam Paull, and <b>Antoine Lesage-Landry</b>. "Multi-agent Reinforcement Learning for Fast-Timescale Demand Response," <i>Reinforcement Learning for Real Life Workshop @ NeurIPS 2022</i>. Accepted. December 2022. <!--(<a href="https://www.climatechange.ai/papers/neurips2021/71/paper.pdf">pdf</a>)--></li>
-  
-  <li> Vincent Mai, Tianyu Zhang, and <b>Antoine Lesage-Landry</b>. "Multi-agent Reinforcement Learning for Renewable Integration in the Electric Power Grid," <i>Tackling Climate Change with Machine Learning: workshop at NeurIPS 2021</i>, online, December 2021. (<a href="https://www.climatechange.ai/papers/neurips2021/71/paper.pdf">pdf</a>)</li>
-  
-    <li> <b>Antoine Lesage-Landry</b> and Duncan S. Callaway. "Batch Reinforcement Learning for Network-Safe Demand Response in Unknown Electric Grids," <i>22nd Power Systems Computation Conference (PSCC 2022)</i>, February 2022. (<a href="https://pscc.epfl.ch/rms/modules/request.php?module=oc_program&action=summary.php&id=1324">pdf</a>)</li>
+  <li> Vincent Mai, Philippe Maisonneuve, Tianyu Zhang, Jorge Montalvo, Liam Paull, and <b>Antoine Lesage-Landry</b>. "Multi-agent Reinforcement Learning for Fast-Timescale Demand Response," <i>Reinforcement Learning for Real Life Workshop @ NeurIPS 2022</i>. December 2022. (<a href="https://drive.google.com/file/d/1ZY__smdhekV-StirvwlA4HjT-qi6X1n2/view">pdf</a>)</li>
   
   <li> Vincent Mai, Tianyu Zhang, and <b>Antoine Lesage-Landry</b>. "Multi-agent Reinforcement Learning for Renewable Integration in the Electric Power Grid," <i>Tackling Climate Change with Machine Learning: workshop at NeurIPS 2021</i>, online, December 2021. (<a href="https://www.climatechange.ai/papers/neurips2021/71/paper.pdf">pdf</a>)</li>
+  
+  <li> <b>Antoine Lesage-Landry</b> and Duncan S. Callaway. "Batch Reinforcement Learning for Network-Safe Demand Response in Unknown Electric Grids," <i>22nd Power Systems Computation Conference (PSCC 2022)</i>, February 2022. (<a href="https://doi.org/10.1016/j.epsr.2022.108375">doi</a>)</li>
   
   <li> Rodrigo Henriquez, <b>Antoine Lesage-Landry</b>, Joshua A. Taylor, Daniel Olivares, and Matias Negrete-Pincetic. "Managing Load Contract Restrictions with Online Learning," <i>, IEEE Global Conference on Signal and Information Processing (GlobalSIP)</i>, November 2017. (<a href="https://doi.org/10.1109/GlobalSIP.2017.8309118">doi</a>)</li>
     
@@ -67,15 +73,22 @@ Response in Unknown Electric Grids," <i>Electric Power Systems Research</i>, 202
 
 <ul style="list-style-type:disc;">
 
+<li><i>Analyzing and Mitigating Impacts of Grid-edge Technologies on Power Distribution Networks</i>. University of Toronto: ECE Seminar, Toronto, ON. February 2023. </li>
+
+<li><i>Optimally Scheduling Public Safety Power Shutoffs</i>. University of Michigan: Michigan Power and
+Energy Laboratory Seminar, Ann Arbor, MI. February 2023. </li> 
+
+<li><i>A Rapid Method for Impact Analysis of Grid-edge Technologies on Power Distribution Networks</i>. Resilient Electric Grid Consortium of North America Symposium 2022 (RECONS 2022), College Station, TX. November 2022. </li> 
+
 <li><i>Optimally Scheduling Public Safety Power Shutoffs</i>. Northwestern University: Department of Electrical and Computer Engineering Seminar Series, Evanston, IL. October 2022. </li>   
 
 <li><i>Optimally Scheduling Public Safety Power Shutoffs</i>. University of British Columbia: ECE Seminar, Vancouver, BC. June 2022. </li> 
   
 <li><i>Optimally Scheduling Public Safety Power Shutoffs</i>. Northeastern University: MIE Seminar Series, Boston, MA. May 2022. </li>  
-  
+      
 <li><i>Batch Reinforcement Learning for Network-Safe Demand Response</i>. ETH Zürich: Power Systems Laboratory Seminar, Zürich, Switzerland/online. March 2022. </li>
   
-<li><i>Real-time Decision-making for Demand Response</i>. University of California, San Diego: Joint Mechanical & Aerospace Engineering Dept and Center for Energy Research at the University of California, San Diego Energy Seminar, San Diego CA/online. November 2021. </li>  
+<li><i>Real-time Decision-making for Demand Response</i>. University of California, San Diego: Joint Mechanical & Aerospace Engineering Department and Center for Energy Research, San Diego CA/online. November 2021. </li>  
   
 <li><i>Fitted Q-Iteration for Network-Safe Demand Response</i>. 2021 INFORMS Annual Meeting, Anaheim, CA/online. October 2021. Invited. </li>
 
