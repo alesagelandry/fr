@@ -8,10 +8,10 @@ author_profile: true
 
 <ol reversed='reversed'> 
   <li> Vincent Mai, Philippe Maisonneuve, Tianyu Zhang, Hadi Nekoei, Liam Paull, and <b>Antoine Lesage-Landry</b>. "Multi-agent Reinforcement Learning for Fast-Timescale Demand Response of Residential Loads," <i>Machine Learning</i>. Under review. March 2023. (<a href="https://arxiv.org/abs/2301.02593">arXiv</a>)</li>   
-
-<li><b>Antoine Lesage-Landry</b>, Félix Pellerin, Joshua A. Taylor, and Duncan S. Callaway. "Optimally Scheduling Public Safety Power Shutoffs," <i>INFORMS Stochastic System</i>. Under review, March 2022. (<a href="https://arxiv.org/abs/2203.02861">arXiv</a>)</li>
   
 <li><b>Antoine Lesage-Landry</b> and Duncan S. Callaway. "Approximate Multi-Agent Fitted Q-Iteration," <i>Systems & Control Letters</i>. Under review, July 2021. (<a href="https://arxiv.org/abs/2104.09343">arXiv</a>)</li>
+
+<li><b>Antoine Lesage-Landry</b>, Félix Pellerin, Duncan S. Callaway, and Joshua A. Taylor. "Optimally Scheduling Public Safety Power Shutoffs," <i>INFORMS Stochastic Systems</i>. Accepted. May 2023. (<a href="https://arxiv.org/abs/2203.02861">arXiv</a>)</li>
 
 <li>Feng Li, Ilhan Kocar, and <b>Antoine Lesage-Landry</b>. "A Rapid Method for Impact Analysis of Grid-edge Technologies on Power Distribution Networks," <i>IEEE Transactions on Power Systems</i>. March 2023. (<a href="https://doi.org/10.1109/TPWRS.2023.3262421">doi</a>)</li>
 
