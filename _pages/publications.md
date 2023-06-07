@@ -8,15 +8,16 @@ author_profile: true
 
 <ol reversed='reversed'> 
   <li> Vincent Mai, Philippe Maisonneuve, Tianyu Zhang, Hadi Nekoei, Liam Paull, and <b>Antoine Lesage-Landry</b>. "Multi-agent Reinforcement Learning for Fast-Timescale Demand Response of Residential Loads," <i>Machine Learning</i>. Under review. March 2023. (<a href="https://arxiv.org/abs/2301.02593">arXiv</a>)</li>   
-  
-<li><b>Antoine Lesage-Landry</b> and Duncan S. Callaway. "Approximate Multi-Agent Fitted Q-Iteration," <i>Systems & Control Letters</i>. Under review, July 2021. (<a href="https://arxiv.org/abs/2104.09343">arXiv</a>)</li>
+
 
 <li><b>Antoine Lesage-Landry</b>, Félix Pellerin, Duncan S. Callaway, and Joshua A. Taylor. "Optimally Scheduling Public Safety Power Shutoffs," <i>INFORMS Stochastic Systems</i>. Accepted. May 2023. (<a href="https://arxiv.org/abs/2203.02861">arXiv</a>)</li>
+
+<li><b>Antoine Lesage-Landry</b> and Duncan S. Callaway. "Approximated Multi-Agent Fitted Q-Iteration," <i>Systems & Control Letters</i>, 177: 105563. July 2023. (<a href="https://doi.org/10.1016/j.sysconle.2023.105563">doi</a>)</li>
 
 <li>Feng Li, Ilhan Kocar, and <b>Antoine Lesage-Landry</b>. "A Rapid Method for Impact Analysis of Grid-edge Technologies on Power Distribution Networks," <i>IEEE Transactions on Power Systems</i>. March 2023. (<a href="https://doi.org/10.1109/TPWRS.2023.3262421">doi</a>)</li>
 
 <li>Jean-Luc Lupien and <b>Antoine Lesage-Landry</b>. "An Online Newton's Method with Linear Time-varying Equality
-Constraints," <i>IEEE Control Systems Letters</i>, 6: 1423-1428. Février 2023. (<a href="https://doi.org/10.1109/LCSYS.2023.3247359">doi</a>)</li> 
+Constraints," <i>IEEE Control Systems Letters</i>, 6: 1423-1428. February 2023. (<a href="https://doi.org/10.1109/LCSYS.2023.3247359">doi</a>)</li> 
   
 <li> <b>Antoine Lesage-Landry</b>, Joshua A. Taylor, and Duncan S. Callaway. "Online Convex Optimization with Binary Constraints," <i>IEEE Transactions on Automatic Control</i>, 66 (12): 6164-6170. December 2021. (<a href="https://doi.org/10.1109/TAC.2021.3061625">doi</a>)</li>
   
@@ -47,9 +48,9 @@ Response in Unknown Electric Grids," <i>Electric Power Systems Research</i>, 202
 <h2>Articles de conférence</h2>
 
 <ol reversed='reversed'>
-  <li> Vincent Mai, Philippe Maisonneuve, Tianyu Zhang, Hadi Nekoei, Liam Paull, and <b>Antoine Lesage-Landry</b>. "Multi-agent Reinforcement Learning for Fast-Timescale Demand Response of Residential Loads," <i>22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS)</i>. Accepted. May 2023. <!--(<a href="https://www.climatechange.ai/papers/neurips2021/71/paper.pdf">pdf</a>)--></li>
-
-  <li>Feng Li, Ilhan Kocar, and <b>Antoine Lesage-Landry</b>. "Mitigating Equipment Overloads due to Electric Vehicle Charging Using Customer Incentives," <i>2023 IEEE Power & Energy Society General Meeting</i>. Accepted. March 2023. (<a href="https://doi.org/10.1109/TPWRS.2023.3262421">doi</a>)</li>
+   <li>Feng Li, Ilhan Kocar, and <b>Antoine Lesage-Landry</b>. "Mitigating Equipment Overloads due to Electric Vehicle Charging Using Customer Incentives," <i>2023 IEEE Power & Energy Society General Meeting</i>. Accepted. March 2023. (<a href="https://doi.org/10.1109/TPWRS.2023.3262421">doi</a>)</li>
+  
+  <li> Vincent Mai, Philippe Maisonneuve, Tianyu Zhang, Hadi Nekoei, Liam Paull, and <b>Antoine Lesage-Landry</b>. "Multi-agent Reinforcement Learning for Fast-Timescale Demand Response of Residential Loads," <i>22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS)</i>. May 2023. <!--(<a href="https://www.climatechange.ai/papers/neurips2021/71/paper.pdf">pdf</a>)--></li>
   
   <li> Vincent Mai, Philippe Maisonneuve, Tianyu Zhang, Jorge Montalvo, Liam Paull, and <b>Antoine Lesage-Landry</b>. "Multi-agent Reinforcement Learning for Fast-Timescale Demand Response," <i>Reinforcement Learning for Real Life Workshop @ NeurIPS 2022</i>. December 2022. (<a href="https://drive.google.com/file/d/1ZY__smdhekV-StirvwlA4HjT-qi6X1n2/view">pdf</a>)</li>
   
