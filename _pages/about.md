@@ -28,3 +28,9 @@ Je suis présentement à la recherche de nouveaux étudiants aux cycles supérie
 <!--Je suis aussi spécifiquement à la recherche d'une étudiant ou d'un étudiant au doctorat (Ph.D.) pour ce [projet de recherche](http://alesagelandry.github.io/fr/ProjDesc_AlliancePDF_fr.pdf) fait en collaboration avec mes collègues [Prof. Dagdougi](https://www.polymtl.ca/expertises/dagdougui-hanane), [Prof. Audet](https://www.polymtl.ca/expertises/audet-charles) and [Prof. Le Digabel](https://www.polymtl.ca/expertises/le-digabel-sebastien). Pour plus d'information sur le processus d'application, s'il vous plaît consulter la description de projet.-->
 
 Je suis aussi spécifiquement à la recherche d'une étudiante ou un étudiant à la maîtrise ou au doctorat pour ce [projet de recherche](http://alesagelandry.github.io/fr/PhD_OnlineOptimization.pdf) dans le domaine de l'optimization en temps réel et des réseaux électriques renouvelables. Pour plus d'information sur le processus d'application, s'il vous plaît consulter la description de projet.
+
+Je suis présentement à la recherche d'étudiantes ou d'étudiants au doctrat pour les projets de recherche suivant:
+<ol>
+<li> [Online Optimization for Power Systems](http://alesagelandry.github.io/PhD_OnlineOptimization_fr.pdf);</li>
+<li> [Machine learning for Power System Dynamics](http://alesagelandry.github.io/PhD_MLforPowerSystems_fr.pdf).</li>
+</ol>
