@@ -31,7 +31,7 @@ Je suis professeur adjoint au département de génie électrique de Polytechniqu
 
 Je suis présentement à la recherche d'étudiantes ou d'étudiants au doctrat pour les projets de recherche suivant:
 <ol>
-<li><a href="http://alesagelandry.github.io/PhD_OnlineOptimization_Eng.pdf">Online Optimization for Power Systems</a></li>
+<li><a href="http://alesagelandry.github.io/PhD_OnlineOptimization_fr.pdf">Online Optimization for Power Systems</a></li>
 <li>
-<a href="http://alesagelandry.github.io/PhD_MLforPowerSystems_Eng.pdf">Machine learning for Power System Dynamics</a> </li>
+<a href="http://alesagelandry.github.io/PhD_MLforPowerSystems_fr.pdf">Machine learning for Power System Dynamics</a> </li>
 </ol>
