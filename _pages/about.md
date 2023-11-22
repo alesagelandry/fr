@@ -15,7 +15,7 @@ Membre académique associé, [Mila - Institut québécois d'intelligence artific
 
 antoine.lesage-landry [ at ] polymtl.ca<br />
 Polytechnique Montréal<br />
-Pavillon Principal, A-429.5 <br />
+Pavillons Lassonde, M-5111 <br />
 2500, chemin de Polytechnique<br />
 Montréal, Québec, Canada<br />
 H3T 1J4<br />
