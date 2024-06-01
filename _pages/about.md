@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Professeur adjoint, [département de génie électrique](https://www.polymtl.ca/expertises/lesage-landry-antoine), [Polytechnique Montréal](https://polymtl.ca/)<br />
+Professeur agrégé, [département de génie électrique](https://www.polymtl.ca/expertises/lesage-landry-antoine), [Polytechnique Montréal](https://polymtl.ca/)<br />
 Membre, [Groupe d'études et de recherche en analyse des décisions (GERAD)](https://www.gerad.ca/fr/people/antoine-lesage-landry)<br />
 Membre académique associé, [Mila - Institut québécois d'intelligence artificielle](https://mila.quebec/personne/antoine-lesage-landry/)<br />
 <br />
@@ -21,7 +21,7 @@ Montréal, Québec, Canada<br />
 H3T 1J4<br />
 
 
-Je suis professeur adjoint au département de génie électrique de Polytechnique Montréal, QC, Canada. J’ai obtenu mon B.Ing. en génie physique de Polytechnique Montréal en 2015 et mon Ph.D. en génie électrique de l’Université de Toronto, ON, Canada, en 2019. Avant de mon joindre à Polytechnique Montréal, j’ai été chercheur postdoctoral au Energy & Resources Group à l’Université de la Californie, Berkeley de 2019 à 2020. Mes champs d’intérêt en recherche incluent l’optimisation et l’online learning ainsi que leurs applications aux réseaux électriques avec énergie renouvelable.
+Je suis professeur agrégé au département de génie électrique de Polytechnique Montréal, QC, Canada. J’ai obtenu mon B.Ing. en génie physique de Polytechnique Montréal en 2015 et mon Ph.D. en génie électrique de l’Université de Toronto, ON, Canada, en 2019. Avant de mon joindre à Polytechnique Montréal, j’ai été chercheur postdoctoral au Energy & Resources Group à l’Université de la Californie, Berkeley de 2019 à 2020. Mes champs d’intérêt en recherche incluent l’optimisation et l’online learning ainsi que leurs applications aux réseaux électriques avec énergie renouvelable.
 
 Je suis présentement à la recherche de nouveaux étudiants aux cycles supérieurs (maîtrise et doctorat) pour plusieurs [projets de recherche](http://alesagelandry.github.io/fr/MScPhD_LORER_fr.pdf). J’invite les étudiant.e.s intéressé.e.s à entreprendre une maîtrise ou un doctorat sous ma supervision à me contacter. Pour plus d'information sur le processus d'application, s'il vous plaît consulter la description de projet.
 

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Antoine Lesage-Landry"
 title_separator          : "-"
 name                     : &name "Antoine Lesage-Landry"
-description              : &description "Professeur adjoint, Polytechnique Montréal & GERAD"
+description              : &description "Professeur agrégé, Polytechnique Montréal & GERAD"
 url                      : https://alesagelandry.github.io/fr # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alesagelandry/alesagelandry.github.io/fr"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Antoine Lesage-Landry"
   avatar           : "all.png"
-  bio              : "Professeur adjoint, Polytechnique Montréal, GERAD & Mila"
+  bio              : "Professeur agrégé, Polytechnique Montréal, GERAD & Mila"
   location         : "Montréal, Québec, Canada"
   employer         :
   googlescholar    : "https://scholar.google.ca/citations?user=E-fXND0AAAAJ&hl=en"
