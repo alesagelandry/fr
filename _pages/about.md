@@ -32,7 +32,7 @@ Je suis professeur agrégé au département de génie électrique de Polytechniq
 <!--Je suis aussi spécifiquement à la recherche d'une étudiante ou d'un étudiant au doctorat pour ce [projet de recherche](http://alesagelandry.github.io/PhD_OnlineOptimization_fr.pdf) dans le domaine de l'optimisation en temps réel et des réseaux électriques renouvelables. Pour plus d'information sur le processus d'application, s'il vous plaît consulter la description de projet.-->
 
 
-Je suis présentement à la recherche d'étudiantes ou d'étudiants au doctrat pour les projets de recherche suivant:
+Je suis présentement à la recherche d'étudiantes ou d'étudiants au doctorat pour les projets de recherche suivant:
 1. [Méthodes d'apprentissage machine et d'optimisation pour la simulation en temps réel des réseaux électriques](http://alesagelandry.github.io/PhD_Simulations_fr.pdf) avec mes collègues [Prof. Karabulut Kurt](https://www.polymtl.ca/expertises/karabulut-kurt-gunes) et [Prof. Berger](https://www.uqar.ca/professeurs/berger-maxime/).
 2. [Modélisation 3D des canaux de communicaiton et des réseaux de drones pour une utilisation dense et harmonieuse du spectre](http://alesagelandry.github.io/PhD_3DH_fr.pdf) avec ma collègue [Prof. Karabulut Kurt](https://www.polymtl.ca/expertises/karabulut-kurt-gunes).
 
