@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 Professeur agrégé, [département de génie électrique](https://www.polymtl.ca/expertises/lesage-landry-antoine), [Polytechnique Montréal](https://polymtl.ca/)<br />
+Professeur associé, département de mathématiques, ingénierie et informatique, [Université du Québec à Rimouski](https://www.uqar.ca/luniversite/departements/departement-de-mathematiques-informatique-et-genie/)<br />
+Professeur agrégé visiteur, [département de génie électrique, laboratoire d'électronique de puissance](https://pelab.imass.nagoya-u.ac.jp/member-english/), [Université Nagoya]https://en.nagoya-u.ac.jp/)<br />
 Membre, [Groupe d'études et de recherche en analyse des décisions (GERAD)](https://www.gerad.ca/fr/people/antoine-lesage-landry)<br />
 Membre académique associé, [Mila - Institut québécois d'intelligence artificielle](https://mila.quebec/personne/antoine-lesage-landry/)<br />
 <br />
@@ -34,6 +36,6 @@ Je suis professeur agrégé au département de génie électrique de Polytechniq
 
 Je suis présentement à la recherche d'étudiantes ou d'étudiants au doctorat pour les projets de recherche suivant:
 1. [Méthodes d'apprentissage machine et d'optimisation pour la simulation en temps réel des réseaux électriques](http://alesagelandry.github.io/PhD_Simulations_fr.pdf) avec mes collègues [Prof. Karabulut Kurt](https://www.polymtl.ca/expertises/karabulut-kurt-gunes) et [Prof. Berger](https://www.uqar.ca/professeurs/berger-maxime/).
-2. [Modélisation 3D des canaux de communicaiton et des réseaux de drones pour une utilisation dense et harmonieuse du spectre](http://alesagelandry.github.io/PhD_3DH_fr.pdf) avec ma collègue [Prof. Karabulut Kurt](https://www.polymtl.ca/expertises/karabulut-kurt-gunes).
+<!--2. [Modélisation 3D des canaux de communicaiton et des réseaux de drones pour une utilisation dense et harmonieuse du spectre](http://alesagelandry.github.io/PhD_3DH_fr.pdf) avec ma collègue [Prof. Karabulut Kurt](https://www.polymtl.ca/expertises/karabulut-kurt-gunes).-->
 
 Pour plus d'information sur le processus d'application, s'il vous plaît consulter la description de projet.
