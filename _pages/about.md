@@ -9,7 +9,7 @@ redirect_from:
 ---
 Professeur agrégé, [département de génie électrique](https://www.polymtl.ca/expertises/lesage-landry-antoine), [Polytechnique Montréal](https://polymtl.ca/)<br />
 Professeur associé, département de mathématiques, ingénierie et informatique, [Université du Québec à Rimouski](https://www.uqar.ca/luniversite/departements/departement-de-mathematiques-informatique-et-genie/)<br />
-Professeur agrégé visiteur, [département de génie électrique, laboratoire d'électronique de puissance](https://pelab.imass.nagoya-u.ac.jp/member-english/), [Université Nagoya](https://en.nagoya-u.ac.jp/)<br />
+Professeur agrégé visiteur, département de génie électrique, [laboratoire d'électronique de puissance](https://pelab.imass.nagoya-u.ac.jp/member-english/), [Université Nagoya](https://en.nagoya-u.ac.jp/)<br />
 Membre, [Groupe d'études et de recherche en analyse des décisions (GERAD)](https://www.gerad.ca/fr/people/antoine-lesage-landry)<br />
 Membre académique associé, [Mila - Institut québécois d'intelligence artificielle](https://mila.quebec/personne/antoine-lesage-landry/)<br />
 <br />
